@@ -43,7 +43,7 @@ public class StaticMethodReplaceContructor {
         Instance instance = Instance.instance();
         System.out.println(instance);
 
-        //create newInstance
+        //create newInstancegit
         Object newArray = Array.newInstance(Integer.class, 12);
         System.out.println(newArray);
 
